@@ -30,9 +30,9 @@ src/
 │   │       ├── exception/      # handles specific and generic exceptions                                                    
 │   │       └── service/         # Service layer with business logic                                                         
 │   ├── resources/                                                                                                                                                            
-│       ├── templates/           # Thymeleaf templates for views                                                             
-│       ├── static/              # Static assets (CSS, JavaScript)                                                           
-│       └── application.properties  # Project configuration                                                                  
+│             ├── templates/           # Thymeleaf templates for views                                                             
+│             ├── static/              # Static assets (CSS, JavaScript)                                                           
+│             └── application.properties  # Project configuration                                                                  
 │                                                                                                                            
 └── test/                        # Test cases for unit testing                                                                
 
