@@ -20,19 +20,20 @@ src/
 ├── main/                                                                                                                    
 │   ├── java/                                                                                                                
 │   │   └── com.example.foodfrenzy/                                                                                          
-│   │       ├── controller/      # Contains all controllers                                                                  
-│   │       ├── entity/           # Contains entity classes                                                                  
-│   │       ├── repository/      # Repository interfaces for database interaction                                            
-│   │       ├── dto/              # Data Transfer Object class                                                                 
-│   │       ├── config/           # Contains spring securiy configuration file                                                               
-│   │       ├── security/          # Spring security classes                                                                                                                  
-│   │       ├── utils/              # contains utility packages                                                                                                             
-│   │       ├── exception/      # handles specific and generic exceptions                                                    
-│   │       └── service/         # Service layer with business logic                                                         
+│   │       ├── controller/               # Contains all controllers                                                                  
+│   │       ├── entity/                   # Contains entity classes                                                                  
+│   │       ├── repository/               # Repository interfaces for database interaction                                            
+│   │       ├── dto/                      # Data Transfer Object class                                                                 
+│   │       ├── config/                   # Contains spring securiy configuration file                                                               
+│   │       ├── security/                 # Spring security classes                                                                                                           
+│   │       ├── utils/                    # contains utility packages                                                                                                         
+│   │       ├── exception/                # handles specific and generic exceptions                                                    
+│   │       └── service/                  # Service layer with business logic                                                         
 │   ├── resources/                                                                                                                                                            
-│             ├── templates/           # Thymeleaf templates for views                                                             
-│             ├── static/              # Static assets (CSS, JavaScript)                                                           
-│             └── application.properties  # Project configuration                                                                  
+│                          ├── templates/           # Thymeleaf templates for views                                                             
+│                          ├── static/              # Static assets (CSS, JavaScript)                                                           
+│                          └── application.properties  # Project configuration                                                                  
 │                                                                                                                            
-└── test/                        # Test cases for unit testing                                                                
+└── test/                        # Test cases for unit testing                                                                                                                                                                                                                                                                                                                                                                                        
+
 
